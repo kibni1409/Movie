@@ -1,0 +1,22 @@
+.Body{
+  position: relative;
+  width: 940px;
+  height: 100%;
+  margin: 0 auto;
+  padding: 35px 35px 0 35px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.listCards{
+  position: relative;
+  width: 940px;
+  height: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
